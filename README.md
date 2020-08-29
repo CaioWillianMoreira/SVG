@@ -1,1 +1,1 @@
-# svg-course
+# SVG do básico ao avançado.
